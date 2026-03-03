@@ -1,0 +1,6 @@
+# --- Private Data ---
+netlify/functions/user_baseline_logs/
+netlify/functions/user_logs/
+
+# Private secrets
+.env

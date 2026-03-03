@@ -1,0 +1,56 @@
+Folder PATH listing for volume Local Disk
+Volume serial number is 4AA8-1793
+C:.
+³   .gitignore
+³   blank_background.jpg
+³   generate_tts.py
+³   index.html
+³   netlify.toml
+³   package.json
+³   paint.jpg
+³   README.md
+³   script.js
+³   structure.txt
+³   style.css
+³   userlogs_server.js
+³   
+ÃÄÄÄmisty_audio_files
+³       misty_char1.mp3
+³       misty_greeting.mp3
+³       misty_greeting2.mp3
+³       misty_unchar1.mp3
+³       
+ÀÄÄÄnetlify
+    ÀÄÄÄfunctions
+        ³   logUserAction.js
+        ³   misty_bandit.py
+        ³   misty_baseline.py
+        ³   plot_users.py
+        ³   requirements.txt
+        ³   runtime.txt
+        ³   
+        ÃÄÄÄuser_baseline_logs
+        ³   ÃÄÄÄe6BZAR6DkO
+        ³   ³       interaction_log.csv
+        ³   ³       
+        ³   ÃÄÄÄLPDAszUORM
+        ³   ³       interaction_log.csv
+        ³   ³       
+        ³   ÃÄÄÄQ78n1GE3Oq
+        ³   ³       interaction_log.csv
+        ³   ³       
+        ³   ÃÄÄÄuXOpcxt2nI
+        ³   ³       interaction_log.csv
+        ³   ³       
+        ³   ÃÄÄÄvCnNkzyNmQ
+        ³   ³       interaction_log.csv
+        ³   ³       
+        ³   ÀÄÄÄx6mnYa9Ms7
+        ³           interaction_log.csv
+        ³           
+        ÀÄÄÄuser_logs
+            ³   user_interactions.csv
+            ³   
+            ÀÄÄÄyKDX3owrsw
+                    interaction_log.csv
+                    
